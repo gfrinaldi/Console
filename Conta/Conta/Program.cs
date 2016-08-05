@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Conta
 {
+    /// <summary>
+    /// Main
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
