@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Conta
 {
     /// <summary>
-    /// Main
+    /// Main con Casina
     /// </summary>
     class Program
     {
