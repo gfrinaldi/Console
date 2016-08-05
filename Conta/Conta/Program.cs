@@ -13,7 +13,7 @@ namespace Conta
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Saluti Casina!");
+            Console.WriteLine("Saluti Mondo!");
             for(int i=0;i<100; i++)
             {
                 Console.WriteLine(i);
