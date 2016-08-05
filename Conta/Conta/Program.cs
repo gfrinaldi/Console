@@ -10,6 +10,7 @@ namespace Conta
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Saluti Mondo!");
         }
     }
 }
